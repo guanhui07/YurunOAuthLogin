@@ -1,5 +1,5 @@
 {
-    "name": "yurunsoft/yurun-oauth-login",
+    "name": "guanhui07/oauth-login",
     "description": "YurunOAuthLogin 是一个 PHP 第三方登录授权 SDK，集成了 QQ、微信、微博、GitHub 等常用接口。",
     "type": "library",
     "license": "MIT",
